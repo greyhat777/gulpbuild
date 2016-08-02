@@ -1,0 +1,19 @@
+{
+  "name": "lebluez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greyhat777/lebluez.git"
+  },
+  "author": "Jesus Tellez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greyhat777/lebluez/issues"
+  },
+  "homepage": "https://github.com/greyhat777/lebluez#readme"
+}
